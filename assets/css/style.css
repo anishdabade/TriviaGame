@@ -1,0 +1,60 @@
+body { 
+  background: url("../images/background.jpg");
+}
+#wrapper {
+	width:600px;
+	margin:40px auto 0;
+}
+
+#display {
+  width: 180%;
+  height: 600px;	
+ 	margin-top: 10px;
+ 	margin-left: -250px;
+ 	overflow: auto;
+	text-align: center;
+  background: #fa8072;
+ 	font-family: "Comic Sans MS", cursive, sans-serif;
+ 	font-size: 50px;
+ 	color: green;
+}
+
+#start {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 25px;
+	text-align: center;
+}
+
+button {
+	width: 100px;
+  height: 50px;
+}
+
+#timer {
+  position: static;
+  overflow-y: auto;
+  margin-top: 30px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 20px;
+  color: green;
+}
+
+#question {
+  margin-top: 100px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 20px;
+  color: yellow;
+}
+
+#options {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 25px;
+  text-align: center;
+}
+
+#done {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 25px;
+  text-align: center;
+}
+
